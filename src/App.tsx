@@ -1,33 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Recycle, 
-  User, 
-  LogOut, 
-  Plus, 
-  Eye, 
-  UserPlus, 
-  Check, 
-  X, 
-  Clock, 
-  AlertTriangle, 
-  CheckCircle, 
-  Users, 
-  BarChart3, 
-  Map, 
-  ClipboardList, 
-  Tasks, 
-  HardHat, 
-  GraduationCap, 
-  Truck, 
-  Leaf, 
-  Trophy, 
-  ShoppingCart,
-  FileText,
-  Calendar,
-  Star,
-  TrendingUp,
-  MapPin
-} from 'lucide-react';
+import { Recycle, User, LogOut, Plus, Eye, UserPlus, Check, X, Clock, AlertTriangle, CheckCircle, Users, BarChart3, Map, ClipboardList, Tag as Tasks, HardHat, GraduationCap, Truck, Leaf, Trophy, ShoppingCart, FileText, Calendar, Star, TrendingUp, MapPin } from 'lucide-react';
 
 // Types
 interface User {
